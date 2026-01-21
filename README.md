@@ -22,7 +22,7 @@ Visualization: Power BI (Multi-page Interactive Dashboard).
 
 📊 Dashboard Features
 
-![Executive Overview](Images/Dashboard_1.jpg)
+![Executive Overview](Images/Dashboard_1.png)
 A high-level view of business health including:
 
 Subscription Funnel: Visualizing the journey from Free to Paid users.
@@ -31,7 +31,7 @@ Global Reach: Enrollment distribution across 67 countries.
 
 Monthly Trends: 2024 growth patterns identifying seasonal peaks.
 
-![Deep Dive Analysis](Images/Dashboard_2.jpg)
+![Deep Dive Analysis](Images/Dashboard_2.png)
 A diagnostic tool for operational teams:
 
 Conversion by Age: Comparing population volume vs. profitability.
