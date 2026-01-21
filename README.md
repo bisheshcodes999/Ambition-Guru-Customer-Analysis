@@ -12,6 +12,16 @@ Geographic Hotspots: Kathmandu leads in both total enrollments and revenue, thou
 
 Product Performance: Discovered that specific exam preparation packages (e.g., Nepali-2081) achieve conversion rates as high as 75%, suggesting a strong market fit for localized content.
 
+
+## 📊 Dashboard Preview
+
+### Page 1: Executive Overview
+![Executive Overview](Images/image_0f6bd1.png)
+
+### Page 2: Deep Dive Analysis
+![Deep Dive Analysis](Images/image_128fe3.png)
+
+
 🛠️ Tech Stack
 Data Cleaning: SQL (MySQL) used for handling NULLs, standardizing 500+ package names, and deduplication.
 
@@ -22,7 +32,7 @@ Visualization: Power BI (Multi-page Interactive Dashboard).
 
 📊 Dashboard Features
 
-![Executive Overview](Images/Dashboard_1.png)
+[Executive Overview]
 A high-level view of business health including:
 
 Subscription Funnel: Visualizing the journey from Free to Paid users.
@@ -31,7 +41,7 @@ Global Reach: Enrollment distribution across 67 countries.
 
 Monthly Trends: 2024 growth patterns identifying seasonal peaks.
 
-![Deep Dive Analysis](Images/Dashboard_2.png)
+[Deep Dive Analysis]
 A diagnostic tool for operational teams:
 
 Conversion by Age: Comparing population volume vs. profitability.
